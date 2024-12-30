@@ -1,5 +1,6 @@
 # 🧠 GlobalDNS Benchmark
 Test the best DNS servers for your home or workplace
+![1230_1_](https://github.com/user-attachments/assets/1c90bb0f-998d-4d50-b29b-7a407b644513)
 
 ## 📄 Relevant information
 
