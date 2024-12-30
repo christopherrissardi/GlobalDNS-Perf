@@ -75,9 +75,8 @@ To add additional DNS servers to the benchmark test:
 
 1. Locate the DNS configuration file within the tool’s directory `(data/top_dns.json)`.
 
-```json
-  # Original Format:
-  
+`Original Format:`
+```json  
   {
     "ip": "8.8.8.8",
     "name": "dns.google.",
@@ -150,9 +149,8 @@ Example: `data/us.json`
 
 If you do not know the ID of each country, here you can check which country you want and what the ID of that country is: [Country Codes Alpha-2](https://www.iban.com/country-codes)
 
+`Original Information`
 ```json
-# Original Information
-
   {
     "ip": "199.255.137.34",
     "name": "",
@@ -227,7 +225,6 @@ Add one site below the other in quotation marks (" ") and make sure they are sep
 Example:
 
 ```python
-
     "exemple.com",
     "iana.org",
     "discord.gg",
